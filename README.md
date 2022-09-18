@@ -1,9 +1,7 @@
-### Hi i am MadLies  👋
-
 <img src="https://github.com/MadLies/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>A engineering student at <a href="https://unal.edu.co/">Universidad Nacional de Colombia</a>, Specializing in systems engineering. 😊</br>
 </em></p>
 
 
