@@ -4,10 +4,12 @@
 <p><em>A engineering student at <a href="https://unal.edu.co/">Universidad Nacional de Colombia</a>, Specializing in systems engineering. 😊</br>
 </em></p>
 
+## About me in code
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
+   Description: "I'm a little developer with a lot of desire to learn "
    code: [Python ,HTML, C++, Java ],
    technologies: {
       frontEnd: {
@@ -23,6 +25,8 @@ const aboutMe = {
    challenge: "Improve my skills as a developer.",
 };
 ```
+## My links
+
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
