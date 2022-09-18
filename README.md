@@ -1,6 +1,6 @@
 ### Hi i am MadLies  👋
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<img src="https://github.com/MadLies/reeveng/blob/master/svg.svg"/>
 
 
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
