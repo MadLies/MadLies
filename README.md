@@ -30,7 +30,12 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![ MadLies's github stats](https://github-readme-stats.vercel.app/api?username=MadLies&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<div align="center">
+  <a href="https://github.com/MadLies">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MadLies&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadLies&theme=highcontrast&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ---
 
