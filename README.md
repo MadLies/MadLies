@@ -9,7 +9,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   Description: "I'm a little developer with a lot of desire to learn "
+   Description: "I'm a little developer with a lot of desire to learn ",
    code: [Python ,HTML, C++, Java ],
    technologies: {
       frontEnd: {
