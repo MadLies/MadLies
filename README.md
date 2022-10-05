@@ -2,7 +2,7 @@
 
 
 <p><em>A engineering student at <a href="https://unal.edu.co/">Universidad Nacional de Colombia</a>, Specializing in systems engineering. 😊</br>
-Cybersecrurity , michis and vidiogames lover 
+Cybersecrurity , michis and videogames lover 
 </em></p>
 
 ## About me in code
