@@ -1,7 +1,7 @@
 <img src="https://github.com/MadLies/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>A engineering student at <a href="https://unal.edu.co/">Universidad Nacional de Colombia</a>, Specializing in systems engineering. 😊</br>
+<p><em>An engineering student at <a href="https://unal.edu.co/">Universidad Nacional de Colombia</a>, Specializing in systems engineering. 😊</br>
 Cybersecrurity , michis and videogames lover 
 </em></p>
 
