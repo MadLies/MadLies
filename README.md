@@ -11,16 +11,17 @@ Cybersecrurity , michis and videogames lover
 const aboutMe = {
    pronouns: "he" | "him",
    Description: "I'm a little developer with a lot of desire to learn ",
-   code: [Python , Java ],
+   code: [Python , JS , C#],
    technologies: {
       frontEnd: {
-
+         React Native
+         .NET MAUI
       },
       backEnd: {
 
       },
-      databases: ["MongoDB", "mySQL", "SQLServer",  "Oracle APEX"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "mySQL"],
+      mobile: ["Android"]
    },
    currentOccupation: ["2dn year of career, open for job opportunities"],
    challenge: "Improve my skills as a developer.",
