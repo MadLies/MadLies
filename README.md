@@ -14,7 +14,7 @@ const aboutMe = {
    code: [Python , JS , C#],
    technologies: {
       frontEnd: {
-         React Native
+         React Native,
          .NET MAUI
       },
       backEnd: {
