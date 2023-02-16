@@ -14,6 +14,7 @@ const aboutMe = {
    code: [Python , JS , C#],
    technologies: {
       frontEnd: {"HTML", "CSS", "React Native",".NET MAUI"},
+      backEnd: {"flask"},
       databases: ["mySQL"],
       mobile: ["Android"]
    },
