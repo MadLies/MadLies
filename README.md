@@ -13,16 +13,8 @@ const aboutMe = {
    Description: "I'm a little developer with a lot of desire to learn ",
    code: [Python , JS , C#],
    technologies: {
-      frontEnd: {
-         HTML,
-         CSS,
-         React Native,
-         .NET MAUI
-      },
-      backEnd: {
-
-      },
-      databases: ["MongoDB", "mySQL"],
+      frontEnd: {"HTML", "CSS", "React Native",".NET MAUI"},
+      databases: ["mySQL"],
       mobile: ["Android"]
    },
    currentOccupation: ["2dn year of career, open for job opportunities"],
